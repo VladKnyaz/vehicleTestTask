@@ -12,3 +12,5 @@
 - ```cd 'путь/к/папке'```
 - ```yarn``` или ```npm i```
 - ```yarn dev``` или ```yarn build && yarn preview```
+
+nodejs - 20.11.1
