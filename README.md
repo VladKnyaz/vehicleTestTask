@@ -13,4 +13,5 @@
 - ```yarn``` или ```npm i```
 - ```yarn dev``` или ```yarn build && yarn preview```
 
-nodejs - 20.11.1
+nodejs version - 20.11.1
+yarn version - 1.22.21
